@@ -1,2 +1,21 @@
+/* #personal-info{
 
-/* Your CSS Code here. */
+    text-align: center;
+}
+#social-handles{
+
+    text-align: center;
+}
+#skills li h4{
+
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+} */
+
+*{
+    margin:5px;
+    padding:5px;
+}
